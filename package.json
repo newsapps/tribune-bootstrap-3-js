@@ -1,0 +1,20 @@
+{
+  "name": "tribune-bootstrap-3-js",
+  "version": "3.1.1",
+  "description": "Bootstrap 3's JavaScript, but usable with Browserify.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap",
+    "browserify"
+  ],
+  "author": "Twitter, Inc.",
+  "license": "MIT",
+  "peerDependencies": {
+    "jquery": "^1.10.2"
+  },
+  "devDependencies": {
+  }
+}
